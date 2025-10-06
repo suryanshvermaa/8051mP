@@ -1,0 +1,13 @@
+*.mcu8051ide
+.mcu8051ide~
+*.asm~
+*.hex
+*.bin
+*.lst
+*.lst~
+*.OBJ
+*.M51
+*.adf
+*.adf~
+*.bin~
+*.hex~

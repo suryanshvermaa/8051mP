@@ -1,0 +1,11 @@
+ORG 0000H
+
+START:
+    MOV A,#22
+    MOV R1,#33
+    ADD A,R1
+
+HALT:
+    SJMP HALT
+
+END
