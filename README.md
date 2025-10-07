@@ -12,7 +12,7 @@ This repository contains code and resources related to the 8051 microprocessor.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/8051mP.git
+    git clone https://github.com/suryanshvermaa/8051mP.git
     ```
 
 ## Requirements
@@ -24,24 +24,50 @@ This repository contains code and resources related to the 8051 microprocessor.
 
 #### Keil uVision
 - Go to this [Keil uVision](https://www.keil.com/download/) page and follow the instructions to download and install the software.
-- ![Product_Section](./assets/productSection.png)
-- ![C51](./assets/C51.png)
+
+<div align="center">
+  <img src="./assets/productSection.png" alt="Product_Section" style="max-width: 100%; height: auto;">
+</div>
+
+<div align="center">
+  <img src="./assets/C51.png" alt="C51" style="max-width: 100%; height: auto;">
+</div>
 -  Fill out the information then submit
-![](./assets/C51DownloadingPage.png)
+
+<div align="center">
+  <img src="./assets/C51DownloadingPage.png" alt="C51 Downloading Page" style="max-width: 100%; height: auto;">
+</div>
 - From here download the .exe file and install
-![](./assets/EXE_FILE.png)
+
+<div align="center">
+  <img src="./assets/EXE_FILE.png" alt="EXE File" style="max-width: 100%; height: auto;">
+</div>
 
 #### MCU 8051 IDE
 - Go to this [MCU 8051 IDE]() and download and install
-![](./assets/downloadingMCUIDE.png) 
+
+<div align="center">
+  <img src="./assets/downloadingMCUIDE.png" alt="Downloading MCU IDE" style="max-width: 100%; height: auto;">
+</div> 
 
 #### Environment Setup
 - Search enviroment and then click on this
-![](./assets/envSearch.png)
-- ![](./assets/ENV_Window.png)
+
+<div align="center">
+  <img src="./assets/envSearch.png" alt="Environment Search" style="max-width: 100%; height: auto;">
+</div>
+
+<div align="center">
+  <img src="./assets/ENV_Window.png" alt="Environment Window" style="max-width: 100%; height: auto;">
+</div>
 - double click on path
-![](./assets/path.png)
-- ![](./assets/pathSet.png)
+<div align="center">
+  <img src="./assets/path.png" alt="Path" style="max-width: 100%; height: auto;">
+</div>
+
+<div align="center">
+  <img src="./assets/pathSet.png" alt="Path Set" style="max-width: 100%; height: auto;">
+</div>
 
 
 ## Contributing
